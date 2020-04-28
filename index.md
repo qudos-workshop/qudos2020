@@ -5,22 +5,30 @@
 layout: page
 ---
 
-![QUDOS2019]({{ site.baseurl }}/images/banner.png "CSE/QUDOS 2019")
+![QUDOS2020]({{ site.baseurl }}/images/cropped-CSE2020-982x199.png "CSE/QUDOS 2020")
 
 #### 6th International Workshop on Quality-Aware DevOps (QUDOS 2020), joint with the 5th Workshop on Continuous Software Engineering (CSE 2020)
 
 QUDOS 2020 will be co-located with the [14th European Conference on Software Architecture (ECSA)](https://ecsa2020.disim.univaq.it/).
 
-Details to follow.
+Download Call for Papers as [PDF]() or [TXT](/) [Will be available soon].
 
+DevOps extends the agile development principles to include the full stack of software services, from design to execution, enabling and promoting collaboration of operations, quality assurance, and development engineers throughout the entire service lifecycle. Ultimately, DevOps is a process that enables faster releases of a better product to the end user. DevOps encompasses a set of values, principles, methods, practices, and tools, to accelerate software delivery to the customer by means of infrastructure as code, 
+continuous integration and deployment, automated testing and monitoring, or new architectural styles such as microservices. In the end all common software engineering activities, organizational forms and processes have to be questioned, adapted and extended to ensure continuous and unobstructed software
+development, this is the aim of continuous software engineering (CSE) research. Current software engineering research mainly deals with the development aspects of DevOps and CSE, focusing on development methods, practices, and tools, leaving the quality assurance aspects of DevOps behind.
 
+Even though development practices such as testing (at all levels) are instrumental in producing quality software, they mostly deal with the functional correctness, while quality assurance deals with a more broadly defined concept of quality, of which functional correctness is just one dimension. However, DevOps needs methods and tools that enable systematic assessment, prediction, and management of software quality in other dimensions as well, including performance, reliability, safety, survivability, or cost of ownership.
 
-<map name="sponsermap">
-<area shape="spec" coords="422,18,500,125" href="https://research.spec.org/" alt="Spec">
-<area shape="devops" coords="600,18,670,128" href="https://research.spec.org/devopswg" alt="Spec DevOps">
-<area shape="ifip" coords="310,148,458,247" href="http://ifip-wg-sos.deib.polimi.it/" alt="ifip">
-<area shape="dfg" coords="27,250,746,346" href="http://www.dfg-spp1593.de/" alt="DFG">
-</map> 
+The QUDOS workshop provides a forum for experts from academia and industry to present and discuss novel quality-aware methods, practices and tools for DevOps. On the other hand, the goal of the CSE workshop is to present and discuss innovative solutions, ideas and experiences in the area of continuity 
+along the entire software engineering lifecycle hence, Continuous Software Engineering. 
+
+For the second time, the CSE and and QUDOS workshops join forces to foster cross-fertilization and bootstrap an even bigger, stronger community around the urgently emerging topics they are both addressing from different angles. Especially industry practitioners are invited to join this community and present challenges, solutions and lessons learned from real and complex projects.
+
+The Joint CSE/QUDOS Workshop 2020 is organized and technically sponsored by the Research Group (RG) and the DevOps Performance Working Group of the [Standard 
+Performance Evaluation Corporation (SPEC RG)](http://research.spec.org), and by the consortium of the EU project [RADON](http://radon-h2020.eu/).
+
+The workshop is also supported by the [IFIP Working Group on Service Oriented Systems](http://ifip-wg-sos.deib.polimi.it/)  and the [GI Working Group Microservices and DevOps](https://ak-msdo.gi.de/).
 
 <a class="twitter-timeline" href="https://twitter.com/qudos_workshop?ref_src=twsrc%5Etfw">Tweets by qudos_workshop</a>
+
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
