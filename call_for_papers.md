@@ -12,10 +12,10 @@ Download Call for Papers as PDF or TXT.
              5th Workshop on Continuous Software Engineering 
                                       and 
            6th International Workshop on Quality-Aware DevOps
-
+    
                              Co-located with the
     14th European Conference on Software Architecture (ECSA 2020)
-
+    
                                 L'Aquila, Italy
                              September 14-18, 2020 
                          (exact day to be announced)
@@ -23,10 +23,18 @@ Download Call for Papers as PDF or TXT.
    https://cse2020.swc-rwth.de/ - http://2020.qudos-workshop.org/
                      https://twitter.com/qudos_workshop
 
-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+DON'T STOP ARCHITECTING!
+
+Please check the message from the ECSA 2020 General Chair on COVID-19: https://ecsa2020.disim.univaq.it/attending/message-from-general-chair
+
+-------------------------------------------------------------------------------
+
+
 
 SCOPE AND TOPICS
- 
+
 DevOps extends the agile development principles to include the full stack of 
 software services, from design to execution, enabling and promoting 
 collaboration of operations, quality assurance, and development engineers 

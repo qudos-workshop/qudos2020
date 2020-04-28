@@ -11,6 +11,14 @@ layout: page
 
 QUDOS 2020 will be co-located with the [14th European Conference on Software Architecture (ECSA)](https://ecsa2020.disim.univaq.it/).
 
+------------------------------------------------------------------------------------------
+
+**DON'T STOP ARCHITECTING!**
+
+**Please check the [message from the ECSA 2020 General Chair on COVID-19](https://ecsa2020.disim.univaq.it/attending/message-from-general-chair).**
+
+------------------------------------------------------------------------------------------
+
 Download Call for Papers as [PDF]() or [TXT](/) [Will be available soon].
 
 DevOps extends the agile development principles to include the full stack of software services, from design to execution, enabling and promoting collaboration of operations, quality assurance, and development engineers throughout the entire service lifecycle. Ultimately, DevOps is a process that enables faster releases of a better product to the end user. DevOps encompasses a set of values, principles, methods, practices, and tools, to accelerate software delivery to the customer by means of infrastructure as code, 
