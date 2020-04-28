@@ -24,10 +24,7 @@ along the entire software engineering lifecycle hence, Continuous Software Engin
 
 For the second time, the CSE and and QUDOS workshops join forces to foster cross-fertilization and bootstrap an even bigger, stronger community around the urgently emerging topics they are both addressing from different angles. Especially industry practitioners are invited to join this community and present challenges, solutions and lessons learned from real and complex projects.
 
-The Joint CSE/QUDOS Workshop 2020 is organized and technically sponsored by the Research Group (RG) and the DevOps Performance Working Group of the [Standard 
-Performance Evaluation Corporation (SPEC RG)](http://research.spec.org), and by the consortium of the EU project [RADON](http://radon-h2020.eu/).
-
-The workshop is also supported by the [IFIP Working Group on Service Oriented Systems](http://ifip-wg-sos.deib.polimi.it/)  and the [GI Working Group Microservices and DevOps](https://ak-msdo.gi.de/).
+The Joint CSE/QUDOS Workshop 2020 is organized and technically sponsored by the Research Group (RG) and the DevOps Performance Working Group of the [Standard Performance Evaluation Corporation (SPEC RG)](http://research.spec.org), and by the consortium of the EU project [RADON](http://radon-h2020.eu/). The workshop is also supported by the [IFIP Working Group on Service Oriented Systems](http://ifip-wg-sos.deib.polimi.it/)  and the [GI Working Group Microservices and DevOps](https://ak-msdo.gi.de/).
 
 <a class="twitter-timeline" href="https://twitter.com/qudos_workshop?ref_src=twsrc%5Etfw">Tweets by qudos_workshop</a>
 
