@@ -8,7 +8,7 @@ The 2020 edition of QUDOS is a joint event, co-organized together with the [Cont
 
 #### Program Committee Chairs
 
-[Robert Chatley](https://www.doc.ic.ac.uk/~rbc/), Imperial College London, UK
+[Robert Chatley](https://www.doc.ic.ac.uk/~rbc/), Imperial College London, UK  
 [Katja Kevic](https://www.linkedin.com/in/katja-kevic-436b52a0/), Microsoft, UK
 
 #### QUDOS Steering Committee
