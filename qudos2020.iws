@@ -156,17 +156,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="qudos2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qudos2019" type="462c0819:PsiDirectoryNode" />
+              <item name="qudos2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qudos2020" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="qudos2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qudos2019" type="462c0819:PsiDirectoryNode" />
+              <item name="qudos2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qudos2020" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="qudos2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qudos2019" type="462c0819:PsiDirectoryNode" />
+              <item name="qudos2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qudos2020" type="462c0819:PsiDirectoryNode" />
               <item name="files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -178,7 +178,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/Bellerofonte/qudos2019/_config.yml" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/Bellerofonte/qudos2020/_config.yml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549017835399" />
@@ -273,7 +273,7 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/qudos2019.iml">
+    <entry file="file://$PROJECT_DIR$/qudos2020.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
