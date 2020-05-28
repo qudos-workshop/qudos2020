@@ -27,4 +27,20 @@ The 2020 edition of QUDOS is a joint event, co-organized together with the [Cont
 
 ### Program Committee
 
-To be announced
+[Bram Adams](http://mcis.polymtl.ca/bram.html), Polytechnique Montréal, Canada
+[Maurício Aniche](https://www.mauricioaniche.com), TU Delft, Netherlands
+[Cor-Paul Bezemer](https://apps.ualberta.ca/directory/person/bezemer), University of Alberta, Canada
+[Jan Bosch](https://www.janbosch.com/), Chalmers University of Technology, Sweden
+[Daniel Bryant](https://www.infoq.com/profile/Daniel-Bryant/), DataWire / InfoQ, UK
+[Jürgen Cito](https://informatics.tuwien.ac.at/people/juergen-cito), TU Vienna, Austria
+[Thomas Kurpick](https://www.linkedin.com/in/thomas-kurpick-32b176a3/), Trusted Shops GmbH
+[Shane McIntosh](http://shanemcintosh.org/), McGill U, Canada
+[Brendan Murphy](https://www.microsoft.com/en-us/research/people/bmurphy/), Microsoft Research, UK
+[Adrian Mouat](https://www.linkedin.com/in/adrianmouat), Container Solutions, UK
+[Cesare Pautasso](http://www.pautasso.info/), University of Lugano, Switzerland
+[Kayla Shapiro](https://www.linkedin.com/in/kaylashapiro), Facebook, UK
+[Emma Söderberg](http://cs.lth.se/emma-soderberg), Lund University
+[Damian Tamburri](https://www.tue.nl/en/research/researchers/damian-tamburri/), TU Eindhoven, Netherlands
+[Catia Trubiani](https://cs.gssi.it/catia.trubiani/), Gran Sasso Science Institute
+[Benji Weber](https://benjiweber.co.uk/), Snyk, UK
+[Uwe Zdun](https://cs.univie.ac.at/Uwe.Zdun/), University of Vienna, Austria

@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /call_for_papers/
 ---
 
-Download Call for Papers as PDF or TXT.
+Download Call for Papers as [TXT](/files/QUDOS2020-CfP.txt).
 
 ------------------------------------------------------------------------------------------
 
