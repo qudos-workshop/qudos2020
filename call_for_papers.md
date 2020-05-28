@@ -106,7 +106,7 @@ SUBMISSION GUIDELINES
 Authors are invited to submit original, unpublished papers that are not being 
 considered in another forum.  We solicit full papers (max. 12 pages), short 
 papers (max. 5 pages), and industry abstracts (max. 2 pages). All submissions 
-must conform to the Springer CCIS format. 
+must conform to the [Springer Proceedings format (LNCS/CCIS)](https://www.springer.com/gp/authors-editors/conference-proceedings/conference-proceedings-guidelines). 
 
 Each full paper submission will be reviewed by at least three members of the 
 program committee.
