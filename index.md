@@ -37,3 +37,4 @@ The Joint CSE/QUDOS Workshop 2020 is organized and technically sponsored by the 
 <a class="twitter-timeline" href="https://twitter.com/qudos_workshop?ref_src=twsrc%5Etfw">Tweets by qudos_workshop</a>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
