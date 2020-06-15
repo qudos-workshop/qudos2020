@@ -19,7 +19,7 @@ QUDOS 2020 will be co-located with the [14th European Conference on Software Arc
 
 ------------------------------------------------------------------------------------------
 
-Download Call for Papers as [TXT](/files/QUDOS2020-CfP.txt).
+Download Call for Papers as [PDF](/files/QUDOS2020-CfP.pdf) or [TXT](/files/QUDOS2020-CfP.txt).
 
 DevOps extends the agile development principles to include the full stack of software services, from design to execution, enabling and promoting collaboration of operations, quality assurance, and development engineers throughout the entire service lifecycle. Ultimately, DevOps is a process that enables faster releases of a better product to the end user. DevOps encompasses a set of values, principles, methods, practices, and tools, to accelerate software delivery to the customer by means of infrastructure as code, 
 continuous integration and deployment, automated testing and monitoring, or new architectural styles such as microservices. In the end all common software engineering activities, organizational forms and processes have to be questioned, adapted and extended to ensure continuous and unobstructed software
