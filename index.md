@@ -15,6 +15,8 @@ QUDOS 2020 will be co-located with the [14th European Conference on Software Arc
 
 **Submission [deadline extended to July 1, 2020 (AOE)](/important_dates/)!**
 
+![QUDOS2020-Flyer]({{ site.baseurl }}/files/QUDOS2020-CfP-thumbnail.png "CSE/QUDOS 2020 CfP Flyer")
+
 ------------------------------------------------------------------------------------------
 
 **DON'T STOP ARCHITECTING!**
