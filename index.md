@@ -11,11 +11,15 @@ layout: page
 
 QUDOS 2020 will be co-located with the [14th European Conference on Software Architecture (ECSA)](https://ecsa2020.disim.univaq.it/).
 
+------
+
+**Submission [deadline extended to July 1, 2020 (AOE)](/important_dates/)!**
+
 ------------------------------------------------------------------------------------------
 
 **DON'T STOP ARCHITECTING!**
 
-**Please check the [message from the ECSA 2020 General Chair on COVID-19](https://ecsa2020.disim.univaq.it/attending/message-from-general-chair).**
+*Please check the [message from the ECSA 2020 General Chair on COVID-19](https://ecsa2020.disim.univaq.it/attending/message-from-general-chair).*
 
 ------------------------------------------------------------------------------------------
 

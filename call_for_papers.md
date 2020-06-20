@@ -6,6 +6,8 @@ permalink: /call_for_papers/
 
 Download Call for Papers as [PDF](/files/QUDOS2020-CfP.pdf) or [TXT](/files/QUDOS2020-CfP.txt).
 
+![QUDOS2020-Flyer]({{ site.baseurl }}/files/QUDOS2020-CfP-thumbnail.png "CSE/QUDOS 2020 CfP Flyer")
+
 ------------------------------------------------------------------------------------------
 
                         Joint CSE/QUDOS Workshop 2020
