@@ -19,9 +19,9 @@ QUDOS 2020 will be co-located with the [14th European Conference on Software Arc
 
 ------------------------------------------------------------------------------------------
 
-**DON'T STOP ARCHITECTING!**
+**ECSA 2020 is going virtual!**
 
-*Please check the [message from the ECSA 2020 General Chair on COVID-19](https://ecsa2020.disim.univaq.it/attending/message-from-general-chair).*
+*Please check the [message from the ECSA 2020 General Chair on ECSA going virtual](https://ecsa2020.disim.univaq.it/news#Virtual-ECSA-2020).*
 
 ------------------------------------------------------------------------------------------
 
