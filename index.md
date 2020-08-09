@@ -9,13 +9,14 @@ layout: page
 
 #### 6th International Workshop on Quality-Aware DevOps (QUDOS 2020), joint with the 5th Workshop on Continuous Software Engineering (CSE 2020)
 
-QUDOS 2020 will be co-located with the [14th European Conference on Software Architecture (ECSA)](https://ecsa2020.disim.univaq.it/).
+QUDOS 2020 will held online on September 15, 2020, co-located with the [14th European Conference on Software Architecture (ECSA)](https://ecsa2020.disim.univaq.it/).
 
 ------
 
-**Submission [deadline extended to July 1, 2020 (AOE)](/important_dates/)!**
+**NEWS! **
 
-![QUDOS2020-Flyer]({{ site.baseurl }}/files/QUDOS2020-CfP-thumbnail.png "CSE/QUDOS 2020 CfP Flyer")
+- **We are honored to inform you that Nicole Forsgren (VP, Research & Strategy at *GitHub*) and Angie Jones (Senior Developer Advocate at *Applitools*)  will deliver a [keynote]({{ site.baseurl }}{% link program.md %})!**
+- We have announced a preliminary [program]({{ site.baseurl }}{% link program.md %}) 
 
 ------------------------------------------------------------------------------------------
 
