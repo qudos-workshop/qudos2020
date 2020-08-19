@@ -6,7 +6,7 @@ permalink: /program/
 
 QUDOS 2020 will held online on September 15, 2020, co-located with the [14th European Conference on Software Architecture (ECSA)](https://ecsa2020.disim.univaq.it/).
 
-Please **register** via the ECSA 2020 registration site: https://ecsa2020.disim.univaq.it/attending/registrations
+Please **register** via the ECSA 2020 registration site: [https://ecsa2020.disim.univaq.it/attending/registrations](https://ecsa2020.disim.univaq.it/attending/registrations)
 
 **NOTE: The program is tentative and the start/end time may still change by a couple of hours to adjust to the timezones of the speakers and  participants.**
 

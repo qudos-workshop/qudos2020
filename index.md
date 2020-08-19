@@ -15,7 +15,7 @@ QUDOS 2020 will held online on September 15, 2020, co-located with the [14th Eur
 
 **NEWS! **
 
-- Please **register** via the ECSA 2020 registration site: https://ecsa2020.disim.univaq.it/attending/registrations
+- Please **register** via the ECSA 2020 registration site: [https://ecsa2020.disim.univaq.it/attending/registrations](https://ecsa2020.disim.univaq.it/attending/registrations)
 - **We are honored to inform you that [Nicole Forsgren](https://twitter.com/nicolefv) (VP, Research & Strategy at *GitHub*) and [Angie Jones](https://twitter.com/techgirl1908) (Senior Developer Advocate at *Applitools*)  will deliver a [keynote]({{ site.baseurl }}{% link program.md %})!** Nicole and Angie will talk about *"Research vs Reality: Test Automation and DevOps as Key Enablers for High Performing Teams"*
 - We have announced a preliminary [program]({{ site.baseurl }}{% link program.md %}) 
 
